@@ -1,6 +1,6 @@
 # Environments as Code {#sec-env-as-code}
 
-I want to turn you a professional chef.
+I want to turn you into a professional chef.
 
 Not a real chef mind you, but the data science equivalent. Creating a
 great data science project is like cooking a delicious meal. You have to
